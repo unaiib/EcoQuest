@@ -1,0 +1,33 @@
+﻿  ebentoak.c
+  graphics.c
+  imagen.c
+  soinua.c
+  text.c
+  EbentuaKargatu.c
+  GameMain.c
+  funtzioak.c
+  Mapak.c
+  MiniJuego1.c
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego1.c(59,11): warning C4244: 'función': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  MiniJuego2.c
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego2.c(233,8): warning C4244: 'función': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  MiniJuego3.c
+  MiniJuego4.c
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1275,11): warning C4244: 'función': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1285,38): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1286,38): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1291,51): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1291,69): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1306,51): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1306,69): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1403,11): warning C4244: 'función': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1405,69): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1406,64): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1410,44): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1410,133): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1411,44): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\unaii\OneDrive\Escritorio\Version Final\02simpleGame\MiniJuego4.c(1411,133): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Mugimenduak.c
+  Generando código...
+     Creando biblioteca C:\Users\unaii\OneDrive\Escritorio\Version Final\Debug\02simpleGame.lib y objeto C:\Users\unaii\OneDrive\Escritorio\Version Final\Debug\02simpleGame.exp
+  02simpleGame.vcxproj -> C:\Users\unaii\OneDrive\Escritorio\Version Final\Debug\02simpleGame.exe
